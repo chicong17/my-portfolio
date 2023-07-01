@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/chicong17/my-portfolio-deloy/static/css/main.f8c66a69.css",
+    "main.js": "/chicong17/my-portfolio-deloy/static/js/main.3a58ec7e.js",
+    "static/media/React-App-netflix-clone.png": "/chicong17/my-portfolio-deloy/static/media/React-App-netflix-clone.77610b2c950486dbb80f.png",
+    "static/media/Charlestown-Pizza.png": "/chicong17/my-portfolio-deloy/static/media/Charlestown-Pizza.b014158f9b26c5b5b0e9.png",
+    "static/media/Gridlinesbuilders.png": "/chicong17/my-portfolio-deloy/static/media/Gridlinesbuilders.b1ae9a07030baae69f63.png",
+    "static/media/olx-clone image.png": "/chicong17/my-portfolio-deloy/static/media/olx-clone image.887047ffbf12c447e947.png",
+    "static/media/Admin-Panel-Dashboard.png": "/chicong17/my-portfolio-deloy/static/media/Admin-Panel-Dashboard.c97506c9510babb9ec52.png",
+    "static/media/web-removebg-preview.png": "/chicong17/my-portfolio-deloy/static/media/web-removebg-preview.9fed7f1d0b7ca01038fd.png",
+    "static/media/Web-designer-1024x821.webp": "/chicong17/my-portfolio-deloy/static/media/Web-designer-1024x821.6e57f7f5669037a83b03.webp",
+    "static/media/todolist.png": "/chicong17/my-portfolio-deloy/static/media/todolist.13858f78acbb5bec224e.png",
+    "static/media/logor.png": "/chicong17/my-portfolio-deloy/static/media/logor.79880cc41de9b15f45b5.png",
+    "static/media/bars.svg": "/chicong17/my-portfolio-deloy/static/media/bars.b264a25d796c08e0e322.svg",
+    "index.html": "/chicong17/my-portfolio-deloy/index.html",
+    "main.f8c66a69.css.map": "/chicong17/my-portfolio-deloy/static/css/main.f8c66a69.css.map",
+    "main.3a58ec7e.js.map": "/chicong17/my-portfolio-deloy/static/js/main.3a58ec7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8c66a69.css",
+    "static/js/main.3a58ec7e.js"
+  ]
+}
