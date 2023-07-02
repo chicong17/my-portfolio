@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/my-portfolio-deloy/static/css/main.a628a6ea.css",
-    "main.js": "/my-portfolio-deloy/static/js/main.ac237f0c.js",
-    "static/media/React-App-netflix-clone.png": "/my-portfolio-deloy/static/media/React-App-netflix-clone.77610b2c950486dbb80f.png",
-    "static/media/Charlestown-Pizza.png": "/my-portfolio-deloy/static/media/Charlestown-Pizza.b014158f9b26c5b5b0e9.png",
-    "static/media/Gridlinesbuilders.png": "/my-portfolio-deloy/static/media/Gridlinesbuilders.b1ae9a07030baae69f63.png",
-    "static/media/olx-clone image.png": "/my-portfolio-deloy/static/media/olx-clone image.887047ffbf12c447e947.png",
-    "static/media/Admin-Panel-Dashboard.png": "/my-portfolio-deloy/static/media/Admin-Panel-Dashboard.c97506c9510babb9ec52.png",
-    "static/media/web-removebg-preview.png": "/my-portfolio-deloy/static/media/web-removebg-preview.9fed7f1d0b7ca01038fd.png",
-    "static/media/Web-designer-1024x821.webp": "/my-portfolio-deloy/static/media/Web-designer-1024x821.6e57f7f5669037a83b03.webp",
-    "static/media/todolist.png": "/my-portfolio-deloy/static/media/todolist.13858f78acbb5bec224e.png",
-    "static/media/logor.png": "/my-portfolio-deloy/static/media/logor.79880cc41de9b15f45b5.png",
-    "static/media/bars.svg": "/my-portfolio-deloy/static/media/bars.b264a25d796c08e0e322.svg",
-    "index.html": "/my-portfolio-deloy/index.html",
-    "main.a628a6ea.css.map": "/my-portfolio-deloy/static/css/main.a628a6ea.css.map",
-    "main.ac237f0c.js.map": "/my-portfolio-deloy/static/js/main.ac237f0c.js.map"
+    "main.css": "/my-portfolio/static/css/main.63bd7c6c.css",
+    "main.js": "/my-portfolio/static/js/main.4864e142.js",
+    "static/media/React-App-netflix-clone.png": "/my-portfolio/static/media/React-App-netflix-clone.77610b2c950486dbb80f.png",
+    "static/media/Charlestown-Pizza.png": "/my-portfolio/static/media/Charlestown-Pizza.b014158f9b26c5b5b0e9.png",
+    "static/media/Gridlinesbuilders.png": "/my-portfolio/static/media/Gridlinesbuilders.b1ae9a07030baae69f63.png",
+    "static/media/olx-clone image.png": "/my-portfolio/static/media/olx-clone image.887047ffbf12c447e947.png",
+    "static/media/Admin-Panel-Dashboard.png": "/my-portfolio/static/media/Admin-Panel-Dashboard.c97506c9510babb9ec52.png",
+    "static/media/web-removebg-preview.png": "/my-portfolio/static/media/web-removebg-preview.9fed7f1d0b7ca01038fd.png",
+    "static/media/Web-designer-1024x821.webp": "/my-portfolio/static/media/Web-designer-1024x821.6e57f7f5669037a83b03.webp",
+    "static/media/todolist.png": "/my-portfolio/static/media/todolist.13858f78acbb5bec224e.png",
+    "static/media/logor.png": "/my-portfolio/static/media/logor.79880cc41de9b15f45b5.png",
+    "static/media/bars.svg": "/my-portfolio/static/media/bars.b264a25d796c08e0e322.svg",
+    "index.html": "/my-portfolio/index.html",
+    "main.63bd7c6c.css.map": "/my-portfolio/static/css/main.63bd7c6c.css.map",
+    "main.4864e142.js.map": "/my-portfolio/static/js/main.4864e142.js.map"
   },
   "entrypoints": [
-    "static/css/main.a628a6ea.css",
-    "static/js/main.ac237f0c.js"
+    "static/css/main.63bd7c6c.css",
+    "static/js/main.4864e142.js"
   ]
 }
